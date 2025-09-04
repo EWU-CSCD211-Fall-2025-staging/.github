@@ -1,10 +1,11 @@
 # CSCD211 GitHub Organization Homepage
 
-Welcome to CSCD211 GitHub Organization Homepage. Here is where all the course content will be linked to. :rocket:
+Welcome to CSCD211 GitHub Organization Homepage. Here is where all the course content will be linked to. Make sure to bookmark this URL (https://github.com/EWU-CSCD211-Fall-2025-staging) and check it regularly! :rocket:
 
 ## Important Links
 * Google Classroom <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
 * Canvas <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
+* Syllabus <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
 
 ## HW Assignments and Quizzes
 | Title | Link | Due Date |
