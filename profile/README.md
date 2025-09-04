@@ -2,7 +2,7 @@
 
 Welcome to CSCD211 Class GitHub Homepage. Here is where all the course content, including assignments and quizzes, will be linked to. 
 
-[x] Make sure to bookmark this URL (https://github.com/EWU-CSCD211-Fall-2025-staging) and check it regularly! :rocket:
+[X] Make sure to bookmark this URL (https://github.com/EWU-CSCD211-Fall-2025-staging) and check it regularly! :rocket:
 
 ## Important Links
 * Google Classroom <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
