@@ -5,11 +5,12 @@ Google Classroom:
 
 # HW Assignments and Quizzes
 | Title | Link |
-|---|---|---|
+|----|----|----|
 | HW2 | <a href="https://classroom.github.com/a/Tr2ytVOg" target="_blank">https://classroom.github.com/a/Tr2ytVOg</a> |
 | HW3 | <a href="https://classroom.github.com/a/FH0LsBlg" target="_blank">https://classroom.github.com/a/FH0LsBlg</a> |
 | Q1  | <a href="https://classroom.github.com/a/xvvnBWzz" target="_blank">https://classroom.github.com/a/xvvnBWzz</a> |
 | Q2  | <a href="https://classroom.github.com/a/f15_DKCY" target="_blank">https://classroom.github.com/a/f15_DKCY</a> |
+
 
 
 
