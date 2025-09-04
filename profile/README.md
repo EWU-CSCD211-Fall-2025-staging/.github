@@ -1,9 +1,12 @@
-# CSCD211
+# CSCD211 GitHub Organization Homepage
 
-Google Classroom:
-* <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">Google Classroom</a>
+Welcome to CSCD211 GitHub Organization Homepage. Here is where all the course content will be linked to. :rocket:
 
-# HW Assignments and Quizzes
+## Important Links
+* Google Classroom <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
+* Canvas <a href ="https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5" target="_blank">https://classroom.google.com/c/Nzk5OTQ3MjE1MTY5</a>
+
+## HW Assignments and Quizzes
 | Title | Link | Due Date |
 |------:|------|:---------|
 | HW2 | <a href="https://classroom.github.com/a/Tr2ytVOg" target="_blank">https://classroom.github.com/a/Tr2ytVOg</a> | 2025-09-03 |
@@ -12,7 +15,7 @@ Google Classroom:
 | Q2  | <a href="https://classroom.github.com/a/f15_DKCY" target="_blank">https://classroom.github.com/a/f15_DKCY</a> | 2025-09-03 |
 
 
-# Walkthroughs and Guides
+## Walkthroughs and Guides
 | Title | Link  |
 |-------|-------|
 | Installing git | <a href="https://github.com/orgs/EWU-CSCD211-Fall-2025-staging/discussions/2" target="_blank">https://github.com/orgs/EWU-CSCD211-Fall-2025-staging/discussions/2</a> |
